@@ -1,2 +1,5 @@
-# NodeJs-Angular2-Webpack-Heroku
-A boilerplate for building an app with technologies NodeJs,Angular2,Webpack,Heroku
+#NodeJS + Angular2 + Webpack + Heroku Boilerplate 
+
+1. `npm install`
+2. `npm start`
+3. Go to [localhost:3000](http://localhost:3000).
