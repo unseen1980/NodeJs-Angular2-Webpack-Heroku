@@ -33,7 +33,7 @@
     "core-js": "^2.4.0",
     "express": "^4.14.0",
     "font-awesome": "^4.6.3",
-    "jquery": "^2.2.4",
+    "jquery": "^3.3.1",
     "mongoose": "^4.5.1",
     "morgan": "^1.7.0",
     "reflect-metadata": "^0.1.3",
